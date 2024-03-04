@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "py_eth_contract"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["emliy Zhai <zhaixt@gmail.com>"]
 readme = "README.md"
